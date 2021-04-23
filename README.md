@@ -4,7 +4,7 @@
 
 **Description**
 
-A Hospital conducted a clinical camp to test for hypothyroidism. The data collected focused on Thyroid patients. The data was to be then used to build a model that determines whether or not the patient's symptoms indicate that the patient has hypothyroidism.
+A Hospital conducted a clinical camp to test for hypothyroidism. The data collected focused on thyroid patients. The data was to be then used to build a model that determines whether or not the patient's symptoms indicate that the patient has hypothyroidism.
 
 **Platforms Used**
 
